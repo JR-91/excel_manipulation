@@ -61,5 +61,4 @@ output_path = rf'{folder}\import.csv'
 with open(output_path, 'w+') as file:
     file.write(csv_output)
 
-print(csv_output)
 
